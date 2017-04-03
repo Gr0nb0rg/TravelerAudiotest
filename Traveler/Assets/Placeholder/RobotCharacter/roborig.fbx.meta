@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: fa280c58e0c06054686b691f52ececa9
+timeCreated: 1490909094
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest
+    100002: ctrl_xtra_leg_lft
+    100004: ctrl_xtra_leg_rt
+    100006: eye_base_lft
+    100008: eye_base_rt
+    100010: eye_cover_lft
+    100012: eye_cover_rt
+    100014: eye_lense_lft
+    100016: eye_lense_rt
+    100018: eye_lft
+    100020: eye_rt
+    100022: Fing_1a_L1
+    100024: Fing_1a_L1 1
+    100026: Fing_1b_L1
+    100028: Fing_1b_L1 1
+    100030: Fing_1c_L1
+    100032: Fing_1c_L1 1
+    100034: Fing_2a_L1
+    100036: Fing_2a_L1 1
+    100038: Fing_2b_L1
+    100040: Fing_2b_L1 1
+    100042: Fing_2c_L1
+    100044: Fing_2c_L1 1
+    100046: Fing_3a_L1
+    100048: Fing_3a_L1 1
+    100050: Fing_3b_L1
+    100052: Fing_3b_L1 1
+    100054: Fing_3c_L1
+    100056: Fing_3c_L1 1
+    100058: Fing_4a_L1
+    100060: Fing_4a_L1 1
+    100062: Fing_4b_L1
+    100064: Fing_4b_L1 1
+    100066: Fing_4c_L1
+    100068: Fing_4c_L1 1
+    100070: Hand_left
+    100072: Hand_right
+    100074: Head
+    100076: Hips
+    100078: jt_ankle_lft
+    100080: jt_ankle_rt
+    100082: jt_ball_lft
+    100084: jt_ball_rt
+    100086: jt_chest
+    100088: jt_elbow_lft
+    100090: jt_elbow_rt
+    100092: jt_head
+    100094: jt_head_tip
+    100096: jt_index_lft_1
+    100098: jt_index_lft_2
+    100100: jt_index_lft_3
+    100102: jt_index_lft_4
+    100104: jt_index_rt_1
+    100106: jt_index_rt_2
+    100108: jt_index_rt_3
+    100110: jt_index_rt_4
+    100112: jt_middle_lft_1
+    100114: jt_middle_lft_2
+    100116: jt_middle_lft_3
+    100118: jt_middle_lft_4
+    100120: jt_middle_rt_1
+    100122: jt_middle_rt_2
+    100124: jt_middle_rt_3
+    100126: jt_middle_rt_4
+    100128: jt_neck
+    100130: jt_pinky_lft_1
+    100132: jt_pinky_lft_2
+    100134: jt_pinky_lft_3
+    100136: jt_pinky_lft_4
+    100138: jt_pinky_rt_1
+    100140: jt_pinky_rt_2
+    100142: jt_pinky_rt_3
+    100144: jt_pinky_rt_4
+    100146: jt_ring_lft_1
+    100148: jt_ring_lft_2
+    100150: jt_ring_lft_3
+    100152: jt_ring_lft_4
+    100154: jt_ring_rt_1
+    100156: jt_ring_rt_2
+    100158: jt_ring_rt_3
+    100160: jt_ring_rt_4
+    100162: jt_root
+    100164: jt_sheen_lft
+    100166: jt_sheen_rt
+    100168: jt_shoulder_lft
+    100170: jt_shoulder_rt
+    100172: jt_spine_mid
+    100174: jt_thigh_lft
+    100176: jt_thigh_rt
+    100178: jt_thumb_lft_1
+    100180: jt_thumb_lft_2
+    100182: jt_thumb_lft_3
+    100184: jt_thumb_lft_4
+    100186: jt_thumb_rt_1
+    100188: jt_thumb_rt_2
+    100190: jt_thumb_rt_3
+    100192: jt_thumb_rt_4
+    100194: jt_toe_tip_lft
+    100196: jt_toe_tip_rt
+    100198: jt_wrist_lft
+    100200: jt_wrist_rt
+    100202: Ldelt
+    100204: Leg_left
+    100206: Leg_right
+    100208: Lelbow
+    100210: Lfoot
+    100212: Lfoot 1
+    100214: Lhand_Hero1
+    100216: Lhand_Hero1 1
+    100218: Lknee
+    100220: Lknee 1
+    100222: LlArm
+    100224: LlLeg
+    100226: LlLeg 1
+    100228: Ltoes
+    100230: Ltoes 1
+    100232: LuArm
+    100234: LuLeg
+    100236: LuLeg 1
+    100238: Neck
+    100240: Rdelt
+    100242: Relbow
+    100244: Ribs
+    100246: RlArm
+    100248: ROBO_GEO
+    100250: //RootNode
+    100252: RuArm
+    100254: T1_L1
+    100256: T1_L1 1
+    100258: T2_L1
+    100260: T2_L1 1
+    100262: T3_L1
+    100264: T3_L1 1
+    100266: Waist
+    400000: Chest
+    400002: ctrl_xtra_leg_lft
+    400004: ctrl_xtra_leg_rt
+    400006: eye_base_lft
+    400008: eye_base_rt
+    400010: eye_cover_lft
+    400012: eye_cover_rt
+    400014: eye_lense_lft
+    400016: eye_lense_rt
+    400018: eye_lft
+    400020: eye_rt
+    400022: Fing_1a_L1
+    400024: Fing_1a_L1 1
+    400026: Fing_1b_L1
+    400028: Fing_1b_L1 1
+    400030: Fing_1c_L1
+    400032: Fing_1c_L1 1
+    400034: Fing_2a_L1
+    400036: Fing_2a_L1 1
+    400038: Fing_2b_L1
+    400040: Fing_2b_L1 1
+    400042: Fing_2c_L1
+    400044: Fing_2c_L1 1
+    400046: Fing_3a_L1
+    400048: Fing_3a_L1 1
+    400050: Fing_3b_L1
+    400052: Fing_3b_L1 1
+    400054: Fing_3c_L1
+    400056: Fing_3c_L1 1
+    400058: Fing_4a_L1
+    400060: Fing_4a_L1 1
+    400062: Fing_4b_L1
+    400064: Fing_4b_L1 1
+    400066: Fing_4c_L1
+    400068: Fing_4c_L1 1
+    400070: Hand_left
+    400072: Hand_right
+    400074: Head
+    400076: Hips
+    400078: jt_ankle_lft
+    400080: jt_ankle_rt
+    400082: jt_ball_lft
+    400084: jt_ball_rt
+    400086: jt_chest
+    400088: jt_elbow_lft
+    400090: jt_elbow_rt
+    400092: jt_head
+    400094: jt_head_tip
+    400096: jt_index_lft_1
+    400098: jt_index_lft_2
+    400100: jt_index_lft_3
+    400102: jt_index_lft_4
+    400104: jt_index_rt_1
+    400106: jt_index_rt_2
+    400108: jt_index_rt_3
+    400110: jt_index_rt_4
+    400112: jt_middle_lft_1
+    400114: jt_middle_lft_2
+    400116: jt_middle_lft_3
+    400118: jt_middle_lft_4
+    400120: jt_middle_rt_1
+    400122: jt_middle_rt_2
+    400124: jt_middle_rt_3
+    400126: jt_middle_rt_4
+    400128: jt_neck
+    400130: jt_pinky_lft_1
+    400132: jt_pinky_lft_2
+    400134: jt_pinky_lft_3
+    400136: jt_pinky_lft_4
+    400138: jt_pinky_rt_1
+    400140: jt_pinky_rt_2
+    400142: jt_pinky_rt_3
+    400144: jt_pinky_rt_4
+    400146: jt_ring_lft_1
+    400148: jt_ring_lft_2
+    400150: jt_ring_lft_3
+    400152: jt_ring_lft_4
+    400154: jt_ring_rt_1
+    400156: jt_ring_rt_2
+    400158: jt_ring_rt_3
+    400160: jt_ring_rt_4
+    400162: jt_root
+    400164: jt_sheen_lft
+    400166: jt_sheen_rt
+    400168: jt_shoulder_lft
+    400170: jt_shoulder_rt
+    400172: jt_spine_mid
+    400174: jt_thigh_lft
+    400176: jt_thigh_rt
+    400178: jt_thumb_lft_1
+    400180: jt_thumb_lft_2
+    400182: jt_thumb_lft_3
+    400184: jt_thumb_lft_4
+    400186: jt_thumb_rt_1
+    400188: jt_thumb_rt_2
+    400190: jt_thumb_rt_3
+    400192: jt_thumb_rt_4
+    400194: jt_toe_tip_lft
+    400196: jt_toe_tip_rt
+    400198: jt_wrist_lft
+    400200: jt_wrist_rt
+    400202: Ldelt
+    400204: Leg_left
+    400206: Leg_right
+    400208: Lelbow
+    400210: Lfoot
+    400212: Lfoot 1
+    400214: Lhand_Hero1
+    400216: Lhand_Hero1 1
+    400218: Lknee
+    400220: Lknee 1
+    400222: LlArm
+    400224: LlLeg
+    400226: LlLeg 1
+    400228: Ltoes
+    400230: Ltoes 1
+    400232: LuArm
+    400234: LuLeg
+    400236: LuLeg 1
+    400238: Neck
+    400240: Rdelt
+    400242: Relbow
+    400244: Ribs
+    400246: RlArm
+    400248: ROBO_GEO
+    400250: //RootNode
+    400252: RuArm
+    400254: T1_L1
+    400256: T1_L1 1
+    400258: T2_L1
+    400260: T2_L1 1
+    400262: T3_L1
+    400264: T3_L1 1
+    400266: Waist
+    4300000: RlArm
+    4300002: Rdelt
+    4300004: Relbow
+    4300006: RuArm
+    4300008: LlArm
+    4300010: Ldelt
+    4300012: Lelbow
+    4300014: LuArm
+    4300016: Head
+    4300018: Neck
+    4300020: eye_cover_rt
+    4300022: eye_lense_rt
+    4300024: eye_cover_lft
+    4300026: eye_lense_lft
+    4300028: Chest
+    4300030: Ribs
+    4300032: Waist
+    4300034: Hips
+    4300036: Fing_1a_L1
+    4300038: Fing_1b_L1
+    4300040: Fing_1c_L1
+    4300042: Fing_2a_L1
+    4300044: Fing_2b_L1
+    4300046: Fing_2c_L1
+    4300048: Fing_3a_L1
+    4300050: Fing_3b_L1
+    4300052: Fing_3c_L1
+    4300054: Fing_4a_L1
+    4300056: Fing_4b_L1
+    4300058: Fing_4c_L1
+    4300060: T1_L1
+    4300062: T2_L1
+    4300064: T3_L1
+    4300066: Lhand_Hero1
+    4300068: Fing_1a_L1
+    4300070: Fing_1b_L1
+    4300072: Fing_1c_L1
+    4300074: Fing_2a_L1
+    4300076: Fing_2b_L1
+    4300078: Fing_2c_L1
+    4300080: Fing_3a_L1
+    4300082: Fing_3b_L1
+    4300084: Fing_3c_L1
+    4300086: Fing_4a_L1
+    4300088: Fing_4b_L1
+    4300090: Fing_4c_L1
+    4300092: T1_L1
+    4300094: T2_L1
+    4300096: T3_L1
+    4300098: Lhand_Hero1
+    4300100: Ltoes
+    4300102: Lfoot
+    4300104: LlLeg
+    4300106: Lknee
+    4300108: LuLeg
+    4300110: Ltoes
+    4300112: Lfoot
+    4300114: LlLeg
+    4300116: Lknee
+    4300118: LuLeg
+    9500000: //RootNode
+    13700000: Chest
+    13700002: eye_cover_lft
+    13700004: eye_cover_rt
+    13700006: eye_lense_lft
+    13700008: eye_lense_rt
+    13700010: Fing_1a_L1
+    13700012: Fing_1a_L1 1
+    13700014: Fing_1b_L1
+    13700016: Fing_1b_L1 1
+    13700018: Fing_1c_L1
+    13700020: Fing_1c_L1 1
+    13700022: Fing_2a_L1
+    13700024: Fing_2a_L1 1
+    13700026: Fing_2b_L1
+    13700028: Fing_2b_L1 1
+    13700030: Fing_2c_L1
+    13700032: Fing_2c_L1 1
+    13700034: Fing_3a_L1
+    13700036: Fing_3a_L1 1
+    13700038: Fing_3b_L1
+    13700040: Fing_3b_L1 1
+    13700042: Fing_3c_L1
+    13700044: Fing_3c_L1 1
+    13700046: Fing_4a_L1
+    13700048: Fing_4a_L1 1
+    13700050: Fing_4b_L1
+    13700052: Fing_4b_L1 1
+    13700054: Fing_4c_L1
+    13700056: Fing_4c_L1 1
+    13700058: Head
+    13700060: Hips
+    13700062: Ldelt
+    13700064: Lelbow
+    13700066: Lfoot
+    13700068: Lfoot 1
+    13700070: Lhand_Hero1
+    13700072: Lhand_Hero1 1
+    13700074: Lknee
+    13700076: Lknee 1
+    13700078: LlArm
+    13700080: LlLeg
+    13700082: LlLeg 1
+    13700084: Ltoes
+    13700086: Ltoes 1
+    13700088: LuArm
+    13700090: LuLeg
+    13700092: LuLeg 1
+    13700094: Neck
+    13700096: Rdelt
+    13700098: Relbow
+    13700100: Ribs
+    13700102: RlArm
+    13700104: RuArm
+    13700106: T1_L1
+    13700108: T1_L1 1
+    13700110: T2_L1
+    13700112: T2_L1 1
+    13700114: T3_L1
+    13700116: T3_L1 1
+    13700118: Waist
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

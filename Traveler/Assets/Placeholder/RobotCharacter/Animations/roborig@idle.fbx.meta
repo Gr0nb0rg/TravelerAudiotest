@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 08cabb967a6367d40b10a7a5422fa967
+timeCreated: 1490909093
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: jt_ankle_lft
+    100002: jt_ankle_rt
+    100004: jt_ball_lft
+    100006: jt_ball_rt
+    100008: jt_chest
+    100010: jt_elbow_lft
+    100012: jt_elbow_rt
+    100014: jt_head
+    100016: jt_head_tip
+    100018: jt_index_lft_1
+    100020: jt_index_lft_2
+    100022: jt_index_lft_3
+    100024: jt_index_lft_4
+    100026: jt_index_rt_1
+    100028: jt_index_rt_2
+    100030: jt_index_rt_3
+    100032: jt_index_rt_4
+    100034: jt_middle_lft_1
+    100036: jt_middle_lft_2
+    100038: jt_middle_lft_3
+    100040: jt_middle_lft_4
+    100042: jt_middle_rt_1
+    100044: jt_middle_rt_2
+    100046: jt_middle_rt_3
+    100048: jt_middle_rt_4
+    100050: jt_neck
+    100052: jt_pinky_lft_1
+    100054: jt_pinky_lft_2
+    100056: jt_pinky_lft_3
+    100058: jt_pinky_lft_4
+    100060: jt_pinky_rt_1
+    100062: jt_pinky_rt_2
+    100064: jt_pinky_rt_3
+    100066: jt_pinky_rt_4
+    100068: jt_ring_lft_1
+    100070: jt_ring_lft_2
+    100072: jt_ring_lft_3
+    100074: jt_ring_lft_4
+    100076: jt_ring_rt_1
+    100078: jt_ring_rt_2
+    100080: jt_ring_rt_3
+    100082: jt_ring_rt_4
+    100084: jt_root
+    100086: jt_sheen_lft
+    100088: jt_sheen_rt
+    100090: jt_shoulder_lft
+    100092: jt_shoulder_rt
+    100094: jt_spine_mid
+    100096: jt_thigh_lft
+    100098: jt_thigh_rt
+    100100: jt_thumb_lft_1
+    100102: jt_thumb_lft_2
+    100104: jt_thumb_lft_3
+    100106: jt_thumb_lft_4
+    100108: jt_thumb_rt_1
+    100110: jt_thumb_rt_2
+    100112: jt_thumb_rt_3
+    100114: jt_thumb_rt_4
+    100116: jt_toe_tip_lft
+    100118: jt_toe_tip_rt
+    100120: jt_wrist_lft
+    100122: jt_wrist_rt
+    100124: //RootNode
+    400000: jt_ankle_lft
+    400002: jt_ankle_rt
+    400004: jt_ball_lft
+    400006: jt_ball_rt
+    400008: jt_chest
+    400010: jt_elbow_lft
+    400012: jt_elbow_rt
+    400014: jt_head
+    400016: jt_head_tip
+    400018: jt_index_lft_1
+    400020: jt_index_lft_2
+    400022: jt_index_lft_3
+    400024: jt_index_lft_4
+    400026: jt_index_rt_1
+    400028: jt_index_rt_2
+    400030: jt_index_rt_3
+    400032: jt_index_rt_4
+    400034: jt_middle_lft_1
+    400036: jt_middle_lft_2
+    400038: jt_middle_lft_3
+    400040: jt_middle_lft_4
+    400042: jt_middle_rt_1
+    400044: jt_middle_rt_2
+    400046: jt_middle_rt_3
+    400048: jt_middle_rt_4
+    400050: jt_neck
+    400052: jt_pinky_lft_1
+    400054: jt_pinky_lft_2
+    400056: jt_pinky_lft_3
+    400058: jt_pinky_lft_4
+    400060: jt_pinky_rt_1
+    400062: jt_pinky_rt_2
+    400064: jt_pinky_rt_3
+    400066: jt_pinky_rt_4
+    400068: jt_ring_lft_1
+    400070: jt_ring_lft_2
+    400072: jt_ring_lft_3
+    400074: jt_ring_lft_4
+    400076: jt_ring_rt_1
+    400078: jt_ring_rt_2
+    400080: jt_ring_rt_3
+    400082: jt_ring_rt_4
+    400084: jt_root
+    400086: jt_sheen_lft
+    400088: jt_sheen_rt
+    400090: jt_shoulder_lft
+    400092: jt_shoulder_rt
+    400094: jt_spine_mid
+    400096: jt_thigh_lft
+    400098: jt_thigh_rt
+    400100: jt_thumb_lft_1
+    400102: jt_thumb_lft_2
+    400104: jt_thumb_lft_3
+    400106: jt_thumb_lft_4
+    400108: jt_thumb_rt_1
+    400110: jt_thumb_rt_2
+    400112: jt_thumb_rt_3
+    400114: jt_thumb_rt_4
+    400116: jt_toe_tip_lft
+    400118: jt_toe_tip_rt
+    400120: jt_wrist_lft
+    400122: jt_wrist_rt
+    400124: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

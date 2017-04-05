@@ -142,6 +142,7 @@ Ljudet förstörs när Cue A triggas (player utanför triggerbox)</value>
     </object>
     <object class="MixerBusEffectChain" id="{6053abae-3cc1-4ad9-895b-652472ad281f}">
         <relationship name="effects">
+            <destination>{36c3f6f2-5d59-45b7-8d9d-7b3f4f38ba36}</destination>
             <destination>{0ca5a958-d7fe-4a6e-924c-73d5ed952a2c}</destination>
             <destination>{e0c12a95-058d-41e6-bdd0-16b3e9f737ff}</destination>
         </relationship>
@@ -170,6 +171,11 @@ Ljudet förstörs när Cue A triggas (player utanför triggerbox)</value>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{652f41e4-24ba-4209-bcf1-4fa3d2cdae02}"/>
+    <object class="DistortionEffect" id="{36c3f6f2-5d59-45b7-8d9d-7b3f4f38ba36}">
+        <property name="level">
+            <value>1</value>
+        </property>
+    </object>
     <object class="MixerBusFader" id="{0ca5a958-d7fe-4a6e-924c-73d5ed952a2c}"/>
     <object class="SpatialiserEffect" id="{e0c12a95-058d-41e6-bdd0-16b3e9f737ff}">
         <property name="maximumDistance">

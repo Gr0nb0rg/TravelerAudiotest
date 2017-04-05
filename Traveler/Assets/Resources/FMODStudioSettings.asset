@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HasSourceProject: 1
   HasPlatforms: 1
-  SourceProjectPath: travelerFMOD\travelerFMOD.fspro
-  SourceBankPath: travelerFMOD\Build
+  SourceProjectPath: travelerFMOD/travelerFMOD.fspro
+  SourceBankPath: travelerFMOD/Build
   AutomaticEventLoading: 1
   AutomaticSampleLoading: 0
   ImportType: 0

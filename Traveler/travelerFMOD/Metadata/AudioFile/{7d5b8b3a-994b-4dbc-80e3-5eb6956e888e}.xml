@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{7d5b8b3a-994b-4dbc-80e3-5eb6956e888e}">
+        <property name="assetPath">
+            <value>playerFootstep_sand_stride_08.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.5</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{6770f2b6-8f5f-4bc9-ab35-28e1011a7c44}</destination>
+        </relationship>
+    </object>
+</objects>

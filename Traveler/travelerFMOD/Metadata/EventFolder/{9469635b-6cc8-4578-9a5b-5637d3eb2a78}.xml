@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.01.09.00">
     <object class="EventFolder" id="{9469635b-6cc8-4578-9a5b-5637d3eb2a78}">
         <property name="name">
-            <value>RoomTone</value>
+            <value>2D Ambience</value>
         </property>
         <relationship name="folder">
-            <destination>{9266f837-b5f5-41bf-997c-3467afd520fc}</destination>
+            <destination>{672e0aaa-c362-47d5-b4ed-245d886ba67b}</destination>
         </relationship>
     </object>
 </objects>

@@ -7,6 +7,7 @@
         <relationship name="items">
             <destination>{f4d333b1-3935-42b4-837e-6d7cd04d56e0}</destination>
             <destination>{a91e5e68-c80a-407e-9471-ed9fa9917410}</destination>
+            <destination>{26ab2c15-1582-4d01-87e9-10a59d515b08}</destination>
         </relationship>
     </object>
     <object class="Tag" id="{f4d333b1-3935-42b4-837e-6d7cd04d56e0}">
@@ -20,6 +21,14 @@
     <object class="Tag" id="{a91e5e68-c80a-407e-9471-ed9fa9917410}">
         <property name="name">
             <value>playerFootstep</value>
+        </property>
+        <relationship name="folder">
+            <destination>{bfc3e33f-3866-42bc-8e56-00014eefc87d}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{26ab2c15-1582-4d01-87e9-10a59d515b08}">
+        <property name="name">
+            <value>#playerFootsteps</value>
         </property>
         <relationship name="folder">
             <destination>{bfc3e33f-3866-42bc-8e56-00014eefc87d}</destination>

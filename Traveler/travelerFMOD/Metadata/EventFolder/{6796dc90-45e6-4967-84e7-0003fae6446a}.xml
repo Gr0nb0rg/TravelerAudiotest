@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="EventFolder" id="{6796dc90-45e6-4967-84e7-0003fae6446a}">
+        <property name="name">
+            <value>2D Scattersounds</value>
+        </property>
+        <relationship name="folder">
+            <destination>{9469635b-6cc8-4578-9a5b-5637d3eb2a78}</destination>
+        </relationship>
+    </object>
+</objects>

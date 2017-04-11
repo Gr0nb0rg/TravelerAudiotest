@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{021176ec-82c3-4566-8ada-4ee15f510782}">
+        <property name="assetPath">
+            <value>emitterSand_light_lo_02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.5299583333333335</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{6770f2b6-8f5f-4bc9-ab35-28e1011a7c44}</destination>
+        </relationship>
+    </object>
+</objects>
